@@ -18,7 +18,7 @@
             "itemName":"Café Expresso Tradicional",
             "unidades": 2,
             "extras": 4,
-            "total": 16
+            "total": 16.00
         },
         {
             "id": 2,
@@ -26,7 +26,7 @@
             "itemName":"Café Mocha",
             "unidades": 2,
             "extras": 2,
-            "total": 15
+            "total": 15.20
         },
         {
             "id": 3,
@@ -34,7 +34,7 @@
             "itemName":"Cappuccino Italiano",
             "unidades": 2,
             "extras": 3,
-            "total": 17
+            "total": 17.50
         }
     ]
 }
