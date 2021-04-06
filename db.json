@@ -31,6 +31,14 @@
         {
             "id": 3,
             "active": true,
+            "itemName":"Café Americano",
+            "unidades": 1,
+            "extras": 1,
+            "total": 09.00
+        },
+        {
+            "id": 4,
+            "active": true,
             "itemName":"Cappuccino Italiano",
             "unidades": 2,
             "extras": 3,
