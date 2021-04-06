@@ -35,14 +35,6 @@
             "unidades": 1,
             "extras": 1,
             "total": 9.00
-        },
-        {
-            "id": 4,
-            "active": true,
-            "itemName":"Cappuccino Italiano",
-            "unidades": 2,
-            "extras": 3,
-            "total": 17.50
         }
     ]
 }
